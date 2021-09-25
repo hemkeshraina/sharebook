@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023674779131",
+    "project_id": "book-share-9c009",
+    "storage_bucket": "book-share-9c009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023674779131:android:9ffbe8caf70d103a93375e",
+        "android_client_info": {
+          "package_name": "com.adl.book_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023674779131-rbsd1o13tc2vkm002qkg3uar4acu94j1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adl.book_share",
+            "certificate_hash": "4541e3de45958c9da32b5895510015f1f37da138"
+          }
+        },
+        {
+          "client_id": "1023674779131-ini0u9upjago77gqoale1efn1n6rs85b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBss7RJMGa-9nDe4RivP374Thqrp8FuWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023674779131-ini0u9upjago77gqoale1efn1n6rs85b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
