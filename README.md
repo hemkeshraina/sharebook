@@ -19,7 +19,6 @@ Book Sharing/Renting Application for university students
    - Branch name
 - Book View Screen: All the details of the book will be displayed here. On clicking contact seller button, you will be directed to the chat room.
 - Chat Room: You can text the seller here and procede further. In-built chat service is provided for privacy reasons.
-  (To learn more about the Chat Service, you can view my previous project [here](https://github.com/jalakp19/QuickChat "Github"))
 - Sell Screen: You can not only buy books but also sell them if they are no longer required. Fill in all the details and click on publish button, you will be redirected to Mybooks screen
 - Profile Screen: You can always edit your Profile i.e Your Display picture, Username and Registration Number. On clicking My Books button, you will be redirected to Mybooks screen
 - My Books Screen: All the books which you want to sell appear here. On clicking any of the books, you will be redirected to an editable Book View Screen
@@ -34,9 +33,4 @@ Book Sharing/Renting Application for university students
    - Firebase Storage (To store profile pictures of users and Book images)
    
 ---
-   
->Feel free to use the code in your own Flutter project
 
-## Author
-
-**- Jalak Patel (https://github.com/jalakp19)**
